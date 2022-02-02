@@ -20,6 +20,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 No challenges encountered in this section. Used Spider-Man: No Way Home ID for the superhero tab.
+
 ---
 
 ## Flix Part 1
